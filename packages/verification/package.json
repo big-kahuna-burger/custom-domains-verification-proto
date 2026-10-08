@@ -1,0 +1,14 @@
+{
+  "name": "@custom-domains/verification",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Injected custom-domain DNS verification lifecycle library.",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.3"
+  }
+}

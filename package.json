@@ -1,0 +1,9 @@
+{
+  "name": "custom-domains-verification-proto",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.9.1",
+  "scripts": {
+    "test": "pnpm -r test"
+  }
+}

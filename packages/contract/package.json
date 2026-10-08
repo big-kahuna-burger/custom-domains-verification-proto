@@ -1,0 +1,11 @@
+{
+  "name": "@custom-domains/contract",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Custom-domain management API contract: operations, scopes, schemas and error codes.",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
